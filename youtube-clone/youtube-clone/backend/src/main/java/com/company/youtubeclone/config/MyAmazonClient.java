@@ -12,8 +12,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class MyAmazonClient {
     AWSCredentials credentials = new BasicAWSCredentials(
-            "AKIARDCTR7K3UNNBJY3D",
-            "8oqdCIQ4wtF15N04H6XAa/O0MsPs2arNfNoWIcjB"
+            "AKIARDCTR7K3UNND",
+            "8oqdCIQ4w"
     );
 
     @Bean
